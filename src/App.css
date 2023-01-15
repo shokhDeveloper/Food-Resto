@@ -1,0 +1,18 @@
+:root{
+    --orange: #EA7C69;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url("./assets/fonts/Barlow-SemiBold.ttf");
+}
+.container{
+    width: 1500px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+a{
+    text-decoration: none;
+}
+button{
+    letter-spacing: 1px;
+}

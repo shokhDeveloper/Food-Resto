@@ -1,0 +1,34 @@
+.dishes{
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1rem;
+    list-style-type: none;
+    border-bottom: 1px solid grey;
+    padding-bottom: 1rem;
+}
+.dishes li a{
+    transition: 0.5s ease;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+.blocking{
+    color: var(--orange);
+}
+.blocking::after{
+    content: " ";
+    display: inline-block;
+    width: 100%;
+    height: 2px;
+    background: var(--orange);
+}
+.nones::after{
+    content: " ";
+    display: inline-block;
+    width: 100%;
+    height: 2px;
+    background:transparent;
+}
+.nones{
+    color: #fff;
+}

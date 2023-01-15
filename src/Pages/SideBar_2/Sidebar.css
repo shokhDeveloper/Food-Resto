@@ -1,0 +1,123 @@
+.sidebar_2{
+    width: 500px;
+    margin-left: 1rem ;
+    height: auto;
+    background: #131218;
+    border-radius: 10px;
+    
+}
+.sidebar_2_logo{
+    padding: 1.6rem 0rem 0rem 1rem;
+    color: #fff;
+}
+.sidebar_2_btns{
+    padding: 1rem;
+}
+.sidebar_2_btns button:nth-child(1){
+    background: var(--orange)   ;
+    color: #fff;
+    padding: 0.5rem ;
+    border-radius: 10px;
+    margin: 0rem 0.3rem 0rem 0rem;
+    font-size: 15px;
+}
+.sidebar_2_btns button{
+    color: var(--orange);
+    border: 1px solid #393C49;
+    background: transparent   ;
+    padding: 0.5rem ;
+    border-radius: 10px;
+    margin: 0rem 0.3rem 0rem 0rem;
+    font-size: 15px;
+    
+}
+.side_text{
+    color: #fff;
+    padding: 1rem;
+    display: flex; justify-content: space-between;
+    align-items: center;
+}
+.side_text_mini{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+}
+.border{
+    width: 90%;
+    margin: 0 auto;
+    padding: 0.5rem;
+}
+.price_number{
+    padding: 1rem;
+}
+.number_1{
+    display: flex;
+}
+.price_number .number_1 img{
+    border-radius: 10px;
+    padding: 0rem 0.2rem;
+}
+.number_1_text p{
+    color: #fff;
+    padding: 0.3rem 0rem;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.price_number{
+    display: flex;
+    justify-content: space-between;
+}
+.number_1_text{
+    width: 80%;
+}
+.number_1_btns{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+}
+.number_1_btns  button{
+    padding: 0.6rem;
+    background: #2D303E;
+    font-size: 16px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+.number_1_delete{
+    display: flex;
+    align-items: center;
+    padding: 0rem 1rem;
+    justify-content: space-between;
+}
+.number_1_delete button{
+    padding: 0.5rem;
+    background: transparent;
+    color: #FF7CA3;
+    font-size: 18px;
+    border: 1px solid #FF7CA3;
+    border-radius: 10px;
+}
+.price_number{
+    padding: 2.5rem  1rem;
+}
+.disc{
+    width: 100%;
+}
+.disc_text{
+    padding: 1rem 0.5rem 0rem 1rem;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+.align_buttons_parent{
+    padding: 1rem;
+    width: 100%;
+}
+.align_button {
+    width: 100%;
+    padding: 0.5rem 1rem;
+    background: var(--orange);
+    color: #fff;
+    border-radius: 10px;
+}

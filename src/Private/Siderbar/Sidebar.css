@@ -1,0 +1,23 @@
+.side{
+    width: 8%;
+    background: #15131b;
+    height: 118vh ;
+    padding: 1rem;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.side #page{
+    padding: 1rem ;
+    width: 100%;
+    border-radius: 10px; 
+    transition: 0.5s ease;
+}
+.block{
+    background: #EA7C69;
+}
+.block img{
+    filter: invert(2);
+}

@@ -1,0 +1,27 @@
+.dash{
+    width: 100%;
+    height: auto;
+    color: #fff;
+    border-radius: 20px;
+}
+.dash_text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.dash_text h3{
+    font-size: 25px;
+}
+.dash_text button{
+    padding: 1rem 1.5rem;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.dash_text button img{
+    padding-right: 1rem;
+}
+

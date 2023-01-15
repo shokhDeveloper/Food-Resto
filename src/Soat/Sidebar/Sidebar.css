@@ -1,0 +1,60 @@
+.siderbar_dashboard{
+    width: 40%;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #fff;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    color: #fff;
+}
+.sidebar_soat{
+    width: 100%;
+    background: #0d0c11;;
+    padding: 1rem 1rem 2rem 1rem ;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+}
+.sidebar_1_text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sidebar_1{
+    padding-top: 0.7rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #fff;
+}
+.sidebar_1_text select{
+    color: #fff;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.sidebar_align_card{
+    padding: 1rem 0rem;
+    display: flex;
+}
+.sidebar_align_card img{    
+    padding: 0rem 1rem 0rem 0rem;
+    border-radius: 50%;
+}
+.sidebar_align_card_text h5 {
+    padding-bottom: 0.5rem;
+}
+.sidebar_dashboard_2{
+    background: #0d0c11;
+    padding: 1.3rem;
+}
+.sidebar_dashboard_2_align{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 0.4rem;
+}
+.sidebar_dashboard_2_align select{
+    padding: 0.5rem ;
+    font-size: 14px;
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}

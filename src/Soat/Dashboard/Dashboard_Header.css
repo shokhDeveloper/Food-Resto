@@ -1,0 +1,20 @@
+.dashboard_header ul li a{
+    color: #fff;
+}
+.dashboard_header ul{
+    padding-bottom: 1rem;
+    border-bottom: 1px solid grey;
+}
+.dashboard_header ul li{
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 1rem;
+}
+.dashboard_header ul li button{
+    padding: 0.5rem 2rem;
+    background: #6be2be4c;
+    color: #50D1AA;
+    border-radius: 10px     ;
+}

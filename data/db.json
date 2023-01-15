@@ -1,0 +1,33 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "email": "shohijahonmusinkulov@gmail.com",
+      "password": "$2a$10$RikpP71/eXqHtObbNsdzzeye4JhfylJs4s3sUJTt90it2fm8uZ72S",
+      "firstname": "Shohijahon",
+      "lastname": "Musinkulov",
+      "id": 1
+    },
+    {
+      "email": "dostonqudratov@gmail.com",
+      "password": "$2a$10$PAvw/NwGPXi0ICpNLC30ZeTgPM5pZkItivJbazgGf/szhAk9jKJyK",
+      "firstname": "Doston",
+      "lastname": "Qudratov",
+      "id": 2
+    },
+    {
+      "email": "sevinchxodjaqulova@gmail.com",
+      "password": "$2a$10$6BuB8Wzk6Ia6zcrx/jfW/OphzoZcIDHQ0ZcWZoR3gvyFf2hP0ix8q",
+      "firstname": "Xodjaqulova",
+      "lastname": "Sevinch",
+      "id": 3
+    },
+    {
+      "email": "odilxonjamolov86@gmail.com",
+      "password": "$2a$10$I2Q.9ffu8qjqNkEHg6Lgcu1Hc.jWBVTxBEX256t6QE7ofyKxt.gfa",
+      "firstname": "Odilxon",
+      "lastname": "Jamolov",
+      "id": 4
+    }
+  ]
+}
